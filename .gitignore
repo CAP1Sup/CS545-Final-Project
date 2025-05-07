@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtualenv
+venv/
+
+# Datasets folder
+datasets/
+
+# Local configuration files
+*.code-workspace
+
+# StyleGAN2 weights (too large for GitHub)
+stylegan2-ffhq-256x256.pkl

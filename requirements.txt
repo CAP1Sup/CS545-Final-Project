@@ -1,0 +1,10 @@
+tqdm==4.67.1
+matplotlib==3.10.1
+timm==1.0.15
+torch==2.7.0
+torchvision==0.22.0
+ipykernel==6.29.5
+IProgress==0.4
+scikit-learn==1.6.1
+bob.extension==7.0.5
+bcolz-zipline==1.2.12
